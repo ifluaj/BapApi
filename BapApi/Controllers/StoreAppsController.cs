@@ -90,4 +90,4 @@ public string Date { get; set; }
 public string Price { get; set; }*/
 
 //This is a simple change to play with github and az devops 
-//another change. also simple 
+//another change. also simple. However now i have made changes to this line that still hadnt had previous changes merged yet... 
